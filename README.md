@@ -2,3 +2,6 @@
 =====================
 
 New SVG Editor for v12 and later.
+
+important
+---------
